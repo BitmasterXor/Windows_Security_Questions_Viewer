@@ -7,6 +7,10 @@ A specialized security research tool built in Delphi for extracting and analyzin
   ⚠️ For Educational and Research Purposes Only
 </p>
 
+<p align="center">
+  <img src="Preview.png" alt="Screenshot of the Delphi Discord Bot Example" style="max-width:100%; height:auto;">
+</p>
+
 ## 🛡️ Core Features
 - **Registry Analysis**: Extracts encrypted security data from Windows registry
 - **Automated Decryption**: Converts hex-encoded data to readable format 
