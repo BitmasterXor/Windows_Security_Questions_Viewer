@@ -10,7 +10,7 @@ A specialized security research tool built in Delphi for extracting and analyzin
 </p>
 
 ## 🛡️ Core Features
-- **Registry Analysis**: Extracts encrypted security data from Windows registry
+- **Registry Analysis**: Extracts Hex Encoded security data from Windows registry
 - **Automated Decryption**: Converts hex-encoded data to readable format 
 - **SYSTEM Level Access**: Utilizes elevated privileges via service creation
 - **Clean Operation**: Automatic cleanup of temporary files
