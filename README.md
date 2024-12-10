@@ -51,7 +51,7 @@ A specialized security research tool built in Delphi for extracting and analyzin
 For authorized security research only. Use responsibly and ethically.
 
 ## 👤 Author
-- **Developer**: BitMasterXOR
+- **Developer**: BitmasterXor
 - **Contact**: Discord: bitmasterxor
 
 ## 📜 License
